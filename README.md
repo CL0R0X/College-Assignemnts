@@ -1,3 +1,3 @@
 # College-Assignemnts
-* all of these codes are created in Java
-*
+* all of these coding assignments were created in Java
+
